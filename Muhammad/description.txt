@@ -1,0 +1,8 @@
+Muhammad Fahim Asim
+https://github.com/muhammad-fahim-asim/Community-Detection---Social-Networks-Recommendation-Systems
+{D1-K=2.csv, 0.031662}
+{D1-UNC.csv, 0.080288}
+{D2-K=7.csv, 0.020641}
+{D2-UNC.csv, 0.068129}
+{D3-K=12.csv, 0.049921}
+{D3-UNC.csv, 0.041410}
